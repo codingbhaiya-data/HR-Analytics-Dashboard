@@ -1,6 +1,9 @@
-# HR-Analytics-Dashboard
+# HR-Analytics-Dashboard 
 
-### Project Background: HR Analytics Dashboard
+![Screenshot 2024-11-27 203843](https://github.com/user-attachments/assets/3a3ffe2c-449a-4875-8da4-81757f78b141)
+
+
+### Project Background:
 
 #### Introduction
 In today's competitive business environment, retaining top talent is crucial for organizational success. High employee attrition rates can lead to increased recruitment costs, loss of institutional knowledge, and disruptions in productivity. This HR Analytics Dashboard provides a comprehensive analysis of employee attrition within an organization, enabling HR professionals to identify patterns, understand underlying causes, and develop effective retention strategies.
